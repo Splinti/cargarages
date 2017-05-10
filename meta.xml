@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<meta>
+
+  <assembly ref="MySql.Data.dll"/>
+  <assembly ref="System.Data.dll"/>
+  <assembly ref="Newtonsoft.Json.dll"/>
+
+  <script src="Server/main.cs" type="server" lang="csharp"/>
+  <script src="Client/main.js" type="client" lang="javascript"/>
+
+</meta>
